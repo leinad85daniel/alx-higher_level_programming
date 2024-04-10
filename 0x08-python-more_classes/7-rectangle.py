@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # Author: Daniel Yohannes
 """Defines a Rectangle class."""
 
